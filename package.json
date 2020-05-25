@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "Openly-licensed / public domain books.",
+  "main": "build-index.js",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-book/books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/next-book/books/issues"
+  },
+  "homepage": "https://books.next-book.info"
+}
