@@ -1,3 +1,6 @@
 [submodule "tovarna-na-absolutno"]
 	path = tovarna-na-absolutno
 	url = https://github.com/next-book/tovarna-na-absolutno.git
+[submodule "henry-david-thoreau_walden"]
+	path = henry-david-thoreau_walden
+	url = https://github.com/jan-martinek/henry-david-thoreau_walden
