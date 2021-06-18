@@ -4,7 +4,8 @@
   "description": "Openly-licensed / public domain books.",
   "main": "build-index.js",
   "dependencies": {
-    "js-yaml": "^3.14.0"
+    "js-yaml": "^3.14.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
